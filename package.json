@@ -1,0 +1,13 @@
+{
+	"name": "laba4",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.17.1",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.11.13",
+		"socket.io": "^3.1.2"
+	},
+	"scripts": {
+	  "start": "nodemon app.js"
+	}
+}
